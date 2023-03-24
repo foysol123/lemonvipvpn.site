@@ -1,12 +1,12 @@
 #!/bin/bash
 #Script Variables
-HOST='185.61.137.174';
-USER='foysolne_lemonvipvpn';
-PASS='lemonvipvpn';
-DBNAME='foysolne_lemonvipvpn';
+HOST='104.218.54.194';
+USER='bestdeve_lemonvipvpn';
+PASS='JAN022011b';
+DBNAME='bestdeve_lemonvipvpn';
 PORT_TCP='5666';
 PORT_UDP='5666';
-SUB_DOMAIN=652g.orangemasterbd.xyz
+SUB_DOMAIN=2teq.best-developer.com
 MYIP=$(wget -qO- icanhazip.com);
 server_ip=$(curl -s https://api.ipify.org)
 timedatectl set-timezone Asia/Riyadh
